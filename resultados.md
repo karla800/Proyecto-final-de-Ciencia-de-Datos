@@ -47,6 +47,10 @@ Este análisis es útil para entender cómo los usuarios están distribuyendo su
 ### Figura 4
 #### Descripción ítem 4
 
+![gráfica_4](https://github.com/karla800/Proyecto-final-de-Ciencia-de-Datos/blob/main/proyectofin/Grafico%204.png)
+
+Nota: Elaboración Propia
+
 En esta sección, se presenta la distribución de los encuestados según el tiempo que llevan utilizando Netflix. La grafica muestra cuatro rangos de tiempo: “Más de 2 años”, “De 1 a 2 años”, “De 6 meses a 1 año”, y “Menos de 6 meses2. A continuación, se realiza un análisis detallado de los resultados obtenidos.
 El grupo de encuestados que lleva más de 2 años usando Netflix es el más grande, con 185 personas, lo que representa el 57.10% del total. Este dato refleja que más de la mitad de los encuestados tienen una larga relación con la plataforma. Los usuarios con más de 2 años de experiencia en Netflix probablemente están muy familiarizados con su interfaz, su contenido y sus características, lo que podría indicar una lealtad significativa hacia la plataforma. además, este grupo puede estar más habituado a las actualizaciones de la plataforma y sus cambios de contenido, lo que lo hace un público clave para comprender las razones detrás de las cancelaciones o decisiones de permanencia.
 El segundo grupo más numeroso es el de los usuarios que llevan de 1 a 2 años utilizando Netflix, con 56 personas, lo que equivale al 17.28% del total, aunque este grupo es mucho más pequeño en comparación con el anterior, sigue representando una parte significativa de la muestra. Los usuarios que llevan entre 1 y 2 años en la plataforma probablemente están en una etapa intermedia, donde ya han explorado una buena parte del catálogo de Netflix pero todavía podrían estar considerando si continuar con la suscripción a largo plazo.
