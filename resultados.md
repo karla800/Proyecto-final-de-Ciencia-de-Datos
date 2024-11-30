@@ -79,7 +79,7 @@ En conclusión, los resultados de esta tabla muestran que la mayoría de los enc
 ### Figura 6
 #### Descripción ítem 6
 
-![gráfica_6]()
+![gráfica_6](https://github.com/karla800/Proyecto-final-de-Ciencia-de-Datos/blob/main/proyectofin/Grafica%206.png)
 
 Nota: Elaboración Propia
 
@@ -93,7 +93,7 @@ En conclusión, los resultados muestran que la mayoría de los encuestados se si
 ### Figura 7
 #### Descripción ítem 7
 
-![gráfica_7]()
+![gráfica_7](https://github.com/karla800/Proyecto-final-de-Ciencia-de-Datos/blob/main/proyectofin/Grafica%207.png)
 
 Nota: Elaboración Propia
 
@@ -108,7 +108,7 @@ En conclusión, los resultados muestran que, aunque la mayoría de los encuestad
 ### Figura 8
 #### Descripción ítem 8
 
-![gráfica_8]()
+![gráfica_8](https://github.com/karla800/Proyecto-final-de-Ciencia-de-Datos/blob/main/proyectofin/Grafica%208.png)
 
 Nota: Elaboración Propia
 
@@ -121,7 +121,7 @@ En conclusión, los resultados muestran que más de la mitad de los encuestados 
 ### Figura 9
 #### Descripción ítem 9
 
-![gráfica_9]()
+![gráfica_9](https://github.com/karla800/Proyecto-final-de-Ciencia-de-Datos/blob/main/proyectofin/Grafica%209.png)
 
 Nota: Elaboración Propia
 
@@ -135,7 +135,7 @@ En conclusión, los resultados muestran que el precio es un factor relevante en 
 ### Figura 10
 #### Descripción ítem 10
 
-![gráfica_10]()
+![gráfica_10](https://github.com/karla800/Proyecto-final-de-Ciencia-de-Datos/blob/main/proyectofin/Grafica%2010.png)
 
 Nota: Elaboración Propia
 
@@ -153,7 +153,7 @@ A pesar de ser un porcentaje menor, el análisis muestra que hay usuarios que ta
 ### Figura 11
 #### Descripción ítem 11
 
-![gráfica_11]()
+![gráfica_11](https://github.com/karla800/Proyecto-final-de-Ciencia-de-Datos/blob/main/proyectofin/Grafica%2011.png)
 
 Nota: Elaboración Propia
 
