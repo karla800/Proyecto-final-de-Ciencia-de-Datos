@@ -19,6 +19,10 @@ El predominio de los rangos de edad 18-25 años y Menos de 18 años puede ser cl
 ### Figura 2
 #### Descripción ítem 2
 
+![gráfica_1](https://github.com/karla800/Proyecto-final-de-Ciencia-de-Datos/blob/main/proyectofin/Grafico%202.png)
+
+Nota: Elaboración Propia
+
 En esta parte del análisis, se clasifica a los encuestados según el género al que se identifican. Se les dio la opción de elegir entre tres categorías: “Femenino”, “Masculino” y “Prefiero no decirlo”. Los resultados obtenidos se describen a continuación:
 En primer lugar, el grupo femenino fue el que tuvo mayor representación, con un total de 174 personas, lo que equivale al 53.70% del total de encuestados. Esto significa que, de cada 10 personas que respondieron la encuesta, aproximadamente 5 o 6 se identificaron como mujeres. Este dato puede ser importante porque muestra que más mujeres estuvieron dispuestas a responder preguntas sobre su uso de Netflix o su decisión de cancelar la plataforma.
 Por otro lado, el grupo masculino también tuvo una participación significativa, aunque fue ligeramente menor que la del grupo femenino. En este caso, 149 personas se identificaron como hombres, lo que representa el 45.99% de los encuestados. Esto quiere decir que, aunque el porcentaje es cercano, las mujeres tuvieron una presencia más fuerte en este análisis.
