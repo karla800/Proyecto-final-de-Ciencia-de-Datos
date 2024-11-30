@@ -40,4 +40,4 @@ Monitoreo y Ajuste: Realizar un seguimiento continuo a través de encuestas peri
 2. Planteamiento del problema [haz click para ir](https://github.com/karla800/Proyecto-final-de-Ciencia-de-Datos/blob/main/formulaciondelprob.md)
 3. Modelamiento de datos. [haz click para ir](https://github.com/karla800/Proyecto-final-de-Ciencia-de-Datos/blob/main/modelado.md)
 4. Resultados. [haz click para ir]
-5. Conclusiones.
+5. Conclusiones. [haz click para ir](https://github.com/karla800/Proyecto-final-de-Ciencia-de-Datos/blob/main/conclusion.md)
