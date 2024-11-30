@@ -19,7 +19,7 @@ El predominio de los rangos de edad 18-25 años y Menos de 18 años puede ser cl
 ### Figura 2
 #### Descripción ítem 2
 
-![gráfica_1](https://github.com/karla800/Proyecto-final-de-Ciencia-de-Datos/blob/main/proyectofin/Grafico%202.png)
+![gráfica_2](https://github.com/karla800/Proyecto-final-de-Ciencia-de-Datos/blob/main/proyectofin/Grafico%202.png)
 
 Nota: Elaboración Propia
 
@@ -32,6 +32,10 @@ En resumen, esta tabla nos ofrece una visión importante de la distribución de 
 
 ### Figura 3
 #### Descripción ítem 3
+
+![gráfica_3](https://github.com/karla800/Proyecto-final-de-Ciencia-de-Datos/blob/main/proyectofin/Grafico%203.png)
+
+Nota: Elaboración Propia
 
 En esta tabla se presenta la distribución de los encuestados según el tipo de plan que actualmente tienen contratado en Netflix. Los resultados muestran tres opciones de plan: “Estándar”, “Premium” y “Estándar con anuncios”. A continuación, se detalla el análisis de los datos.
 El plan Estándar es el más común entre los encuestados, con un total de 156 personas, lo que representa el 48.15% del total de respuestas. Este plan, que permite a los usuarios ver contenido en dos pantallas simultáneamente y en calidad HD, parece ser el preferido por una gran parte de los usuarios de Netflix. La preferencia por este plan podría estar relacionada con su equilibrio entre costo y características, ya que ofrece una buena calidad de streaming y permite compartir la cuenta con otra persona sin pagar un precio tan elevado como el del plan Premium.
