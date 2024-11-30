@@ -4,7 +4,9 @@ En este apartado se analizaran los resultados obtenidos de los ítems que compon
 
 ### Figura 1
 #### Descripción ítem 1
-![gráfica_1](https://github.com/karla800/Proyecto-final-de-Ciencia-de-Datos/blob/main/proyectofin/Grafico%201.0.png)
+
+![gráfica_1]()
+
 En esta parte del análisis, se agruparon a los encuestados en cinco rangos de edad para entender cómo está distribuida la población que participó en la encuesta. Los rangos definidos son: “Menos de 18 años”, “18-25 años”, “26-35 años”, “36-45 años” y “Más de 46 años”. Esta clasificación nos ayuda a identificar cuáles son los grupos de edad que participaron más activamente, como se muestra a continuación.
 El grupo más representativo es el de 18-25 años, con un total de 186 personas, lo que equivale al 57.41% del total de encuestados. Este dato es interesante porque muestra que más de la mitad de las personas que respondieron a la encuesta son jóvenes adultos. Esto no sorprende, ya que Netflix es una plataforma popular entre este rango de edad, probablemente debido a la afinidad que tienen con el consumo de contenido digital y la posibilidad de compartir cuentas entre amigos y familiares.
 El segundo grupo con mayor representación es el de Menos de 18 años, con 98 encuestados, lo que representa el 30.25% del total. Este rango incluye principalmente a adolescentes que, aunque probablemente no sean quienes pagan directamente por el servicio, pueden influir en las decisiones familiares de mantener o cancelar la suscripción. Además, es un grupo que consume contenido frecuentemente, lo cual podría explicar su participación alta en esta encuesta.
