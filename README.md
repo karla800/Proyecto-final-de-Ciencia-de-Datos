@@ -36,7 +36,7 @@ Planificación de Despliegue: Si el piloto en Xalapa es exitoso, extender el mod
 Monitoreo y Ajuste: Realizar un seguimiento continuo a través de encuestas periódicas para ajustar los modelos predictivos y las estrategias de intervención, considerando los cambios en las preferencias de los usuarios, las condiciones de mercado y las respuestas a las modificaciones implementadas.
 
 ## Fases del proyecto
-1. Introducción [haz click para ir]# Bienvenido(a) al Proyecto Final 
+1. Introducción [haz click para ir] (# Bienvenido(a) al Proyecto Final) 
 
 ## Introduccion del Proyecto
 
@@ -68,7 +68,12 @@ Para abordar el problema de las cancelaciones de suscripciones a Netflix en Xala
 •	Distribución geográfica de los usuarios de Netflix (zonas de la ciudad: urbana, suburbana, rural).
 •	Relación entre la satisfacción del usuario y las razones de cancelación de suscripción.
 
-1. Introduccion [haz click para ir] 
+#### Hipotesis 
+
+1.	Los usuarios de zonas de mayor poder adquisitivo son más propensos a mantener su suscripción a Netflix debido a la mayor satisfacción con el contenido y la calidad del servicio.
+2.	Los usuarios en zonas con menos acceso a internet o menores recursos económicos tienen mayores tasas de cancelación debido a factores como el costo o la conexión inestable.
+3.	Existen patrones geográficos de cancelación que indican que las zonas periféricas o rurales de Xalapa presentan tasas más altas de cancelación de suscripciones que las zonas urbanas.
+
 2. Planteamiento del problema [haz click para ir]
 3. Conjunto de datos. [haz click para ir]
 4. Modelamiento de datos. [haz click para ir]
