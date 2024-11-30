@@ -6,6 +6,7 @@ En este apartado se analizaran los resultados obtenidos de los ítems que compon
 #### Descripción ítem 1
 
 ![gráfica_1](https://github.com/karla800/Proyecto-final-de-Ciencia-de-Datos/blob/main/proyectofin/Grafico%201.0.png)
+
 Nota: Elaboracion Propia
 
 En esta parte del análisis, se agruparon a los encuestados en cinco rangos de edad para entender cómo está distribuida la población que participó en la encuesta. Los rangos definidos son: “Menos de 18 años”, “18-25 años”, “26-35 años”, “36-45 años” y “Más de 46 años”. Esta clasificación nos ayuda a identificar cuáles son los grupos de edad que participaron más activamente, como se muestra a continuación.
