@@ -65,6 +65,10 @@ En conclusión, el tiempo de uso de Netflix entre los encuestados revela que la 
 ### Figura 5
 #### Descripción ítem 5
 
+![gráfica_5](https://github.com/karla800/Proyecto-final-de-Ciencia-de-Datos/blob/main/proyectofin/Grafico%205.png)
+
+Nota: Elaboración Propia
+
 En esta sección, se presenta la distribución de los encuestados según el principal uso que le dan a la plataforma de Netflix. La grafica muestra las respuestas de la pregunta "¿Principalmente, para qué utilizas la plataforma de Netflix?", con cinco categorías principales: “Ver series”, “Ver películas”, “Ver documentales”, “Ver contenido infantil” y “Otro”. A continuación, se realiza un análisis detallado de los resultados obtenidos.
 El grupo más numeroso está compuesto por los usuarios que utilizan Netflix principalmente para ver series, con un total de 213 respuestas, lo que representa el 65.74% de los encuestados. Este dato refleja una clara preferencia por el contenido relacionado con series, lo que podría indicar que Netflix es percibido principalmente como una plataforma de series y que su catálogo de series es un factor clave para la retención de usuarios. Este grupo probablemente valora la variedad y la calidad de las series disponibles, siendo estas el principal motor para continuar con la suscripción, además, este comportamiento es consistente con la tendencia global de que las series son uno de los tipos de contenido más populares entre los usuarios de servicios de streaming.
 El segundo grupo más grande corresponde a aquellos que utilizan la plataforma principalmente para ver películas, con 91 respuestas, lo que equivale al 28.10% del total. Aunque este grupo es considerablemente más pequeño que el de los usuarios de series, sigue representando una parte significativa de la muestra. Los usuarios que se enfocan en ver películas pueden estar buscando un catálogo más diverso o específico de títulos cinematográficos. Es posible que algunos de estos usuarios también busquen contenido más reciente o de estreno en formato de película, lo que podría reflejar un interés por la novedad y la exclusividad del contenido.
@@ -75,6 +79,10 @@ En conclusión, los resultados de esta tabla muestran que la mayoría de los enc
 ### Figura 6
 #### Descripción ítem 6
 
+![gráfica_6]()
+
+Nota: Elaboración Propia
+
 En esta sección, se presenta la distribución de los encuestados según su nivel de satisfacción con su suscripción a Netflix, a partir de las respuestas a la pregunta: "¿Qué tan satisfecho(a) te sientes con tu suscripción a Netflix?". La grafica incluye cinco categorías de satisfacción: “Neutral”, “Satisfecho(a)”, “Muy satisfecho(a)”, “Insatisfecho(a)” y “Muy insatisfecho(a)”. A continuación, se realiza un análisis detallado de los resultados obtenidos.
 El grupo más numeroso corresponde a los usuarios neutrales, con 135 respuestas, lo que representa el 41.67% del total. Este dato sugiere que una proporción significativa de los encuestados no tiene una opinión clara ni positiva ni negativa sobre su suscripción a Netflix. Los usuarios en esta categoría pueden estar satisfechos en general, pero sin experimentar una conexión fuerte o una experiencia excepcional que los haga sentirse especialmente satisfechos o insatisfechos. 
 El segundo grupo más grande está compuesto por los usuarios satisfechos, con 133 respuestas, lo que equivale al 41.04% del total. Estos usuarios se sienten generalmente complacidos acerca de su suscripción, lo que refleja una buena experiencia. La satisfacción de estos usuarios puede estar relacionada con aspectos como la calidad del contenido, la facilidad de uso de la plataforma y la variedad de opciones disponibles. Dado que este grupo representa casi la mitad de los encuestados, es evidente que, aunque algunos usuarios puedan no estar completamente emocionados, la mayoría de los encuestados valora positivamente su experiencia en Netflix.
@@ -84,6 +92,10 @@ En conclusión, los resultados muestran que la mayoría de los encuestados se si
 
 ### Figura 7
 #### Descripción ítem 7
+
+![gráfica_7]()
+
+Nota: Elaboración Propia
 
 En esta sección, se presenta la distribución de los encuestados según la frecuencia con la que encuentran contenido nuevo que les interesa en Netflix, a partir de las respuestas a la pregunta: "¿Con qué frecuencia encuentras contenido nuevo que te interesa en Netflix?". La tabla incluye cinco categorías de respuesta: “Ocasionalmente”, “Frecuentemente”, “Rara vez”, “Muy frecuentemente” y “Nunca”. A continuación, se realiza un análisis detallado de los resultados obtenidos.
 El grupo más grande corresponde a los usuarios que encuentran contenido nuevo que les interesa ocasionalmente, con un total de 167 respuestas, lo que representa el 51.54% de los encuestados. Este dato indica que más de la mitad de los encuestados encuentran contenido nuevo de interés de manera ocasional. Es posible que estos usuarios no estén constantemente en búsqueda de novedades, o que el contenido que se les recomienda no siempre se ajuste a sus preferencias, sin embargo, esta categoría sugiere que, aunque los usuarios disfrutan de la variedad de contenidos en Netflix, no siempre encuentran algo que los atraiga cada vez que ingresan a la plataforma.
@@ -96,6 +108,10 @@ En conclusión, los resultados muestran que, aunque la mayoría de los encuestad
 ### Figura 8
 #### Descripción ítem 8
 
+![gráfica_8]()
+
+Nota: Elaboración Propia
+
 En esta sección, se presenta la distribución de los encuestados según si han considerado cambiar a otra plataforma de streaming, a partir de las respuestas a la pregunta: "¿Has considerado cambiar a otra plataforma de streaming (como Amazon Prime, Disney+, HBO Max)?". La gradica incluye tres categorías de respuesta: “Ya uso otra plataforma en paralelo”, “Sí” y “No”. A continuación, se realiza un análisis detallado de los resultados obtenidos.
 El grupo más numeroso está compuesto por los usuarios que ya usan otra plataforma en paralelo, con 211 respuestas, lo que representa el 65.43% del total. Este dato sugiere que una gran mayoría de los encuestados ya está suscrita a más de una plataforma de streaming al mismo tiempo. El uso de plataformas adicionales podría indicar una preferencia por la variedad y la diversidad de contenido, ya que muchas personas buscan tener acceso a catálogos más amplios y a contenido exclusivo de otras plataformas como Amazon Prime, Disney+, o HBO Max. Este comportamiento también podría reflejar que los usuarios buscan complementar su experiencia con Netflix, especialmente si consideran que otras plataformas ofrecen contenido que Netflix no proporciona.
 El segundo grupo está compuesto por los usuarios que sí han considerado cambiarse a otra plataforma, con 75 respuestas, lo que representa el 23.15% del total. Aunque este grupo es más pequeño que el de los usuarios que ya utilizan otras plataformas en paralelo, aún es significativo. Estos usuarios han considerado la posibilidad de cambiar de plataforma, lo que podría estar relacionado con varios factores, como la falta de contenido atractivo, el precio de la suscripción o la calidad del servicio. Este dato es relevante para Netflix, ya que podría indicar que una parte de su base de usuarios está evaluando otras opciones disponibles en el mercado y podría ser vulnerable a la cancelación si no se mejoran ciertos aspectos de la experiencia del usuario.
@@ -104,6 +120,10 @@ En conclusión, los resultados muestran que más de la mitad de los encuestados 
 
 ### Figura 9
 #### Descripción ítem 9
+
+![gráfica_9]()
+
+Nota: Elaboración Propia
 
 En esta sección, se presenta la distribución de los encuestados según la influencia que tiene el precio en su decisión de mantener o cancelar su suscripción a Netflix, a partir de las respuestas a la pregunta: "¿Cuánto influye el precio en tu decisión de mantener o cancelar tu suscripción a Netflix?". La grafica incluye cuatro categorías de respuesta: “Moderadamente”, “Poco”, “Mucho” y “Nada”. A continuación, se realiza un análisis detallado de los resultados obtenidos.
 El grupo más grande está compuesto por los usuarios que consideran que el precio influye moderadamente en su decisión, con un total de 157 respuestas, lo que representa el 48.46% de los encuestados. Este dato indica que, para casi la mitad de los encuestados, el precio tiene un impacto relevante, pero no determinante, en su decisión de mantener o cancelar la suscripción. Esto sugiere que, aunque muchos usuarios consideran el costo como un factor importante, hay otros aspectos de la plataforma (como el contenido disponible, la calidad del servicio, o las características adicionales) que también influyen en su permanencia. El precio podría ser un factor que influye principalmente en momentos de incertidumbre o cuando los usuarios consideran otras alternativas, pero no necesariamente es el único criterio para la decisión.
@@ -114,6 +134,10 @@ En conclusión, los resultados muestran que el precio es un factor relevante en 
 
 ### Figura 10
 #### Descripción ítem 10
+
+![gráfica_10]()
+
+Nota: Elaboración Propia
 
 En esta sección, se presenta la distribución de los encuestados según su principal motivo para mantener la suscripción a Netflix, a partir de las respuestas a la pregunta: "¿Cuál es tu principal motivo para mantener la suscripción a Netflix?". Los motivos se agrupan en las siguientes categorías: “Amplia variedad de contenido”, “Facilidad de uso”, “Calidad de producciones”, “Compatibilidad con dispositivos”, “Entretenimiento” y “Otro”. A continuación, se realiza un análisis detallado de los resultados obtenidos.
 El grupo más grande de encuestados, con 118 respuestas, lo que representa el 36.42% del total, considera que la amplia variedad de contenido es su principal motivo para mantener la suscripción a Netflix. Este dato indica que una parte significativa de los usuarios valora principalmente la diversidad de opciones que ofrece la plataforma. Esto puede incluir no solo la cantidad de títulos disponibles, sino también la variedad de géneros, tipos de contenido (películas, series, documentales, etc.) y producciones exclusivas que hacen que Netflix sea atractiva. Los usuarios que priorizan este motivo probablemente buscan un servicio que cubra todas sus preferencias de entretenimiento, desde clásicos hasta estrenos exclusivos, y están dispuestos a pagar por la oferta variada que la plataforma proporciona.
@@ -128,6 +152,10 @@ A pesar de ser un porcentaje menor, el análisis muestra que hay usuarios que ta
 
 ### Figura 11
 #### Descripción ítem 11
+
+![gráfica_11]()
+
+Nota: Elaboración Propia
 
 En esta sección, se presenta la distribución de los encuestados a partir de las respuestas a la pregunta: "¿Cuál sería el principal motivo para cancelar tu suscripción a Netflix?". Las respuestas se agrupan en las siguientes categorías: “Falta de contenido de interés”, “No tengo tiempo para verla”, “Precio”, “Limitaciones en las normas de la plataforma”, “Uso de otra plataforma de streaming” y “Otro”. A continuación, se realiza un análisis detallado de los resultados obtenidos.
 El grupo más grande de encuestados, con 138 respuestas, lo que representa el 42.59% del total, considera que la falta de contenido de interés es su principal motivo para cancelar la suscripción a Netflix. Este dato indica que una parte significativa de los usuarios podría abandonar el servicio si no encuentran contenido atractivo o relevante para sus preferencias. La diversidad y la actualización constante del catálogo se muestran como factores clave para la retención de los usuarios, ya que aquellos que no se sienten satisfechos con las opciones disponibles tienden a buscar alternativas.
