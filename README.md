@@ -68,6 +68,7 @@ Para abordar el problema de las cancelaciones de suscripciones a Netflix en Xala
 •	Distribución geográfica de los usuarios de Netflix (zonas de la ciudad: urbana, suburbana, rural).
 •	Relación entre la satisfacción del usuario y las razones de cancelación de suscripción.
 
+1. Introduccion [haz click para ir] 
 2. Planteamiento del problema [haz click para ir]
 3. Conjunto de datos. [haz click para ir]
 4. Modelamiento de datos. [haz click para ir]
