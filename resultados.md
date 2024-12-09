@@ -5,7 +5,7 @@ En este apartado se analizaran los resultados obtenidos de los ítems que compon
 ### Figura 1
 #### Descripción ítem 1
 
-![gráfica_1](proyectofin/Gráfico1.crtx)
+![gráfica_1](proyectofin/Grafico 1.0.png)
 
 Nota: Elaboración Propia
 
