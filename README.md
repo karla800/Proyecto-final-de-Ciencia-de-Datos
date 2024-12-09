@@ -5,7 +5,7 @@ Elaborado por:
 
 Fernández Mendoza Karla Valeria
 
-Gómez Días Giovanna Arlette 
+Gómez Díaz Giovana Arlette 
 
 Méndez Lara Vanessa Guadalupe
 
