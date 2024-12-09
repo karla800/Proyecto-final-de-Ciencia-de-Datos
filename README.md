@@ -39,8 +39,8 @@ Planificación de Despliegue: Si el piloto en Xalapa es exitoso, extender el mod
 Monitoreo y Ajuste: Realizar un seguimiento continuo a través de encuestas periódicas para ajustar los modelos predictivos y las estrategias de intervención, considerando los cambios en las preferencias de los usuarios, las condiciones de mercado y las respuestas a las modificaciones implementadas.
 
 ## Fases del proyecto
-1. Introducción [haz click para ir](https://github.com/karla800/Proyecto-final-de-Ciencia-de-Datos/blob/main/introducion.md)
-2. Planteamiento del problema [haz click para ir](https://github.com/karla800/Proyecto-final-de-Ciencia-de-Datos/blob/main/formulaciondelprob.md)
-3. Modelamiento de datos. [haz click para ir](https://github.com/karla800/Proyecto-final-de-Ciencia-de-Datos/blob/main/modelado.md)
-4. Resultados. [haz click para ir](https://github.com/karla800/Proyecto-final-de-Ciencia-de-Datos/blob/main/resultados.md)
-5. Conclusiones. [haz click para ir](https://github.com/karla800/Proyecto-final-de-Ciencia-de-Datos/blob/main/conclusion.md)
+1. Introducción [haz click para ir](introducion.md)
+2. Planteamiento del problema [haz click para ir](formulaciondelprob.md)
+3. Modelamiento de datos. [haz click para ir](modelado.md)
+4. Resultados. [haz click para ir](resultados.md)
+5. Conclusiones. [haz click para ir](conclusion.md)
