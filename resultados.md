@@ -5,7 +5,7 @@ En este apartado se analizaran los resultados obtenidos de los ítems que compon
 ### Figura 1
 #### Descripción ítem 1
 
-![gráfica_1](https://github.com/karla800/Proyecto-final-de-Ciencia-de-Datos/blob/main/proyectofin/Grafico%201.0.png)
+![gráfica_1](proyectofin/Gráfico1.crtx)
 
 Nota: Elaboración Propia
 
@@ -24,7 +24,7 @@ El predominio de los rangos de edad 18-25 años y Menos de 18 años puede ser cl
 ### Figura 2
 #### Descripción ítem 2
 
-![gráfica_2](https://github.com/karla800/Proyecto-final-de-Ciencia-de-Datos/blob/main/proyectofin/Grafico%202.png)
+![gráfica_2](proyectofin/Grafico 2.png)
 
 Nota: Elaboración Propia
 
@@ -43,7 +43,7 @@ En resumen, esta tabla nos ofrece una visión importante de la distribución de 
 ### Figura 3
 #### Descripción ítem 3
 
-![gráfica_3](https://github.com/karla800/Proyecto-final-de-Ciencia-de-Datos/blob/main/proyectofin/Grafico%203.png)
+![gráfica_3](proyectofin/Grafico 3.png)
 
 Nota: Elaboración Propia
 
@@ -62,7 +62,7 @@ Este análisis es útil para entender cómo los usuarios están distribuyendo su
 ### Figura 4
 #### Descripción ítem 4
 
-![gráfica_4](https://github.com/karla800/Proyecto-final-de-Ciencia-de-Datos/blob/main/proyectofin/Grafico%204.png)
+![gráfica_4](proyectofin/Grafico 4.png)
 
 Nota: Elaboración Propia
 
@@ -89,7 +89,7 @@ En conclusión, el tiempo de uso de Netflix entre los encuestados revela que la 
 ### Figura 5
 #### Descripción ítem 5
 
-![gráfica_5](https://github.com/karla800/Proyecto-final-de-Ciencia-de-Datos/blob/main/proyectofin/Grafico%205.png)
+![gráfica_5](proyectofin/Grafico 5.png)
 
 Nota: Elaboración Propia
 
@@ -108,7 +108,7 @@ En conclusión, los resultados de esta tabla muestran que la mayoría de los enc
 ### Figura 6
 #### Descripción ítem 6
 
-![gráfica_6](https://github.com/karla800/Proyecto-final-de-Ciencia-de-Datos/blob/main/proyectofin/Grafica%206.png)
+![gráfica_6](proyectofin/Grafica 6.png)
 
 Nota: Elaboración Propia
 
@@ -127,7 +127,7 @@ En conclusión, los resultados muestran que la mayoría de los encuestados se si
 ### Figura 7
 #### Descripción ítem 7
 
-![gráfica_7](https://github.com/karla800/Proyecto-final-de-Ciencia-de-Datos/blob/main/proyectofin/Grafica%207.png)
+![gráfica_7](proyectofin/Grafica 7.png)
 
 Nota: Elaboración Propia
 
@@ -148,7 +148,7 @@ En conclusión, los resultados muestran que, aunque la mayoría de los encuestad
 ### Figura 8
 #### Descripción ítem 8
 
-![gráfica_8](https://github.com/karla800/Proyecto-final-de-Ciencia-de-Datos/blob/main/proyectofin/Grafica%208.png)
+![gráfica_8](proyectofin/Grafica 8.png)
 
 Nota: Elaboración Propia
 
@@ -165,7 +165,7 @@ En conclusión, los resultados muestran que más de la mitad de los encuestados 
 ### Figura 9
 #### Descripción ítem 9
 
-![gráfica_9](https://github.com/karla800/Proyecto-final-de-Ciencia-de-Datos/blob/main/proyectofin/Grafica%209.png)
+![gráfica_9](proyectofin/Grafica 9.png)
 
 Nota: Elaboración Propia
 
@@ -184,7 +184,7 @@ En conclusión, los resultados muestran que el precio es un factor relevante en 
 ### Figura 10
 #### Descripción ítem 10
 
-![gráfica_10](https://github.com/karla800/Proyecto-final-de-Ciencia-de-Datos/blob/main/proyectofin/Grafica%2010.png)
+![gráfica_10](proyectofin/Grafica 10.png)
 
 Nota: Elaboración Propia
 
@@ -211,7 +211,7 @@ A pesar de ser un porcentaje menor, el análisis muestra que hay usuarios que ta
 ### Figura 11
 #### Descripción ítem 11
 
-![gráfica_11](https://github.com/karla800/Proyecto-final-de-Ciencia-de-Datos/blob/main/proyectofin/Grafica%2011.png)
+![gráfica_11](proyectofin/Grafica 11.png)
 
 Nota: Elaboración Propia
 
